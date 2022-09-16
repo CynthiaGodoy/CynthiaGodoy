@@ -1,15 +1,15 @@
-<h2 align="center">About Me</h2> 
-
+<!-- <h2 align="center">About Me</h2>  -->
 ## Interests
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,html,css,react" />
   </a>
 </p>
 
-- Even though I went to to school for Full Stack Development I find that I love creating visual animations with HTML, CSS, & React.js
+- After completing a full stack development education, I find that I love creating visual animations with HTML, CSS, & React.js.
 - I am currently studying for the AWS Cloud Architect Exam. 
 - My Readme files might be excessively detailed. Everything needs to be organized so I know what I did later.
+- [React Portfolio](https://cynthiagodoy.github.io/react.js-portfolio/)
 
 ## Tech Stack
 <div align="center">
@@ -28,6 +28,6 @@
 
 ## Group Projects
 
-- [Toystalgic]()
-- [Fit with Friends]()
-- [Book & Coffee Finder]()
+- [Toystalgic](https://toystalgic.herokuapp.com/) | eCommerce | MERN Stack | React.js | Apollo GraphQL | 100% CSS | Stripe | Heroku
+- [Fit with Friends](https://fitwithfriends-app.herokuapp.com/) | MVP | MySQL2 | Express-Handlebars | bycrypt | Session | Heroku | Sequelize | Express | Trello | Bootstrap
+- [Book & Coffee Finder](https://noah8863.github.io/Coffee-and-Book-Finder/) | Third-Party API's | Bulma | CSS
