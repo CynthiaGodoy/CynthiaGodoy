@@ -9,7 +9,7 @@
 - After completing a full stack development education, I find that I love creating visual animations with HTML, CSS, & React.js.
 - I am currently studying for the AWS Cloud Architect Exam. 
 - My Readme files might be excessively detailed. Everything needs to be organized so I know what I did later.
-- [React Portfolio](https://cynthiagodoy.github.io/react.js-portfolio/)
+- [React Portfolio](https://cynthiagodoy.github.io/react.js-portfolio/) | React.js | React-Reveal | React-Motion | Emailjs Contact Form | 100% CSS | Keyframe Animations
 
 ## Tech Stack
 <div align="center">
