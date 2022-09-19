@@ -8,7 +8,7 @@
 
 - After completing a full stack development education, I find that I love creating visual animations with HTML, CSS, & React.js.
 - I am currently studying for the AWS Cloud Architect Exam. 
-- My Readme files might be excessively detailed. Everything needs to be organized so I know what I did later.
+- My Readme files might be excessively detailed. Everything needs to be organized & documented so I know what I did for future use.
 - [React Portfolio](https://cynthiagodoy.github.io/react.js-portfolio/) | React.js | React-Reveal | React-Motion | Emailjs Contact Form | 100% CSS | Keyframe Animations
 
 ## Tech Stack
@@ -28,6 +28,6 @@
 
 ## Group Projects
 
-- [Toystalgic](https://toystalgic.herokuapp.com/) | eCommerce | MERN Stack | React.js | Apollo GraphQL | 100% CSS | Stripe | Heroku
+- [Toystalgic](https://toystalgic.herokuapp.com/) | eCommerce | MERN Stack | React.js | Apollo GraphQL | 100% CSS | Stripe | Heroku | Mongoose | JWT
 - [Fit with Friends](https://fitwithfriends-app.herokuapp.com/) | MVP | MySQL2 | Express-Handlebars | bycrypt | Session | Heroku | Sequelize | Express | Trello | Bootstrap
 - [Book & Coffee Finder](https://noah8863.github.io/Coffee-and-Book-Finder/) | Third-Party API's | Bulma | CSS
