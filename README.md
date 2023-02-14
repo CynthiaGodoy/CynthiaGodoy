@@ -7,7 +7,7 @@
 </p>
 
 - After completing a full stack development education, I find that I love creating visual animations with HTML, CSS, & React.js.
-- I am currently studying for the AWS Cloud Architect Exam & Google UX Design Professional Certificate while juggling my own business. 
+- I am currently studying for the AWS Cloud Architect Exam & Google UX Design Professional Certificate. 
 - My Readme files might be excessively detailed. Everything needs to be organized & documented so I know what I did for future use.
 - [React Portfolio](https://cynthiagodoy.github.io/react.js-portfolio/) | React.js | React-Reveal | React-Motion | Emailjs Contact Form | 100% CSS | Keyframe Animations
 
