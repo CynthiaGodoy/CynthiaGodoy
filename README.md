@@ -28,6 +28,6 @@
 
 ## Group Projects
 
-- [Toystalgic](https://toystalgic.herokuapp.com/) | eCommerce | MERN Stack | React.js | Apollo GraphQL | 100% CSS | Stripe | Heroku | Mongoose | JWT
-- [Fit with Friends](https://fitwithfriends-app.herokuapp.com/) | MVP | MySQL2 | Express-Handlebars | bycrypt | Session | Heroku | Sequelize | Express | Trello | Bootstrap
+- [Toystalgic](https://github.com/CynthiaGodoy/toystalgic) | eCommerce | MERN Stack | React.js | Apollo GraphQL | 100% CSS | Stripe | Heroku | Mongoose | JWT
+- [Fit with Friends](https://github.com/CynthiaGodoy/Fit_With_Friends) | MVP | MySQL2 | Express-Handlebars | bycrypt | Session | Heroku | Sequelize | Express | Trello | Bootstrap
 - [Book & Coffee Finder](https://noah8863.github.io/Coffee-and-Book-Finder/) | Third-Party API's | Bulma | CSS
