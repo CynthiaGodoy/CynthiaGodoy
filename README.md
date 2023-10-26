@@ -7,9 +7,10 @@
 </p>
 
 - After completing a full stack development education, I find that I love creating visual animations with HTML, CSS, & React.js.
+- PSM I & PSM II Certified Scrum Master.
 - I am currently studying for the AWS Cloud Architect Exam & Google UX Design Professional Certificate. 
 - My Readme files might be excessively detailed. Everything needs to be organized & documented so I know what I did for future use.
-- [React Portfolio](https://cynthiagodoy.github.io/react.js-portfolio/) | React.js | React-Reveal | React-Motion | Emailjs Contact Form | 100% CSS | Keyframe Animations | From Scratch
+- [React Portfolio](https://cynthiagodoy.github.io/react.js-portfolio/) | React.js | React-Reveal | React-Motion | Emailjs Contact Form | 100% CSS | Keyframe Animations | React-Slick | jQuery | Scroll | hover:hover | From Scratch
 
 ## Tech Stack
 <div align="center">
